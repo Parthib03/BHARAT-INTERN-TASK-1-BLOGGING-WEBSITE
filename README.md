@@ -1,5 +1,3 @@
-Certainly, here's a simple README for your blogging website:
-
 # Blaze Blog
 
 Welcome to Blaze Blog, a simple and elegant blogging website!
