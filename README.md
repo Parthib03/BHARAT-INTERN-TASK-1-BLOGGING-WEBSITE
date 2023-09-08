@@ -21,19 +21,16 @@ Before you begin, make sure you have the following installed on your computer:
    git clone <repository-url>
 Navigate to the project's root directory:
 
-bash
-Copy code
+
 cd blaze-blog
 Install the project dependencies by running:
 
-bash
-Copy code
+
 npm install
 Usage
 After successfully installing the dependencies, you can start the Blaze Blog application by running:
 
-bash
-Copy code
+
 npm start
 Open your web browser and visit http://localhost:3000 to access the Blaze Blog website.
 
@@ -46,11 +43,6 @@ License
 This project is licensed under the MIT License.
 
 Happy Blogging!
-
-vbnet
-Copy code
-
-Replace `<repository-url>` with the actual URL of your Blaze Blog repository.
 
 This README provides clear instructions for users to set up and run your blogging website on their local machines using Node.js and npm. It also encourages contributions from the community and specifies the license under which the project is distributed.
 
