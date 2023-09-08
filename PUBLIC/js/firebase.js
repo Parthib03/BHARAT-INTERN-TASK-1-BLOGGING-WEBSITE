@@ -1,0 +1,11 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAKAwyE5IKepaMPj33b2W9eFms6AQonl-o",
+  authDomain: "blazeblog-by-parthib.firebaseapp.com",
+  projectId: "blazeblog-by-parthib",
+  storageBucket: "blazeblog-by-parthib.appspot.com",
+  messagingSenderId: "187091197237",
+  appId: "1:187091197237:web:4ed4576f59b444a8db007c",
+};
+
+firebase.initializeApp(firebaseConfig);
+let db = firebase.firestore();
